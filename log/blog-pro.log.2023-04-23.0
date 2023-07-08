@@ -1,0 +1,5 @@
+2023-04-23 15:34:17.391  INFO 84864 --- [main] com.maplesong.MyblogApplicationTests     : Starting MyblogApplicationTests using Java 1.8.0_341 on DESKTOP-PMA9VGJ with PID 84864 (started by maple in D:\maple\myblog)
+2023-04-23 15:34:17.411  INFO 84864 --- [main] com.maplesong.MyblogApplicationTests     : The following 1 profile is active: "pro"
+2023-04-23 15:34:17.585  WARN 84864 --- [main] o.s.b.c.config.ConfigDataEnvironment     : Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 38:13]
+2023-04-23 15:34:17.586  WARN 84864 --- [main] o.s.b.c.config.ConfigDataEnvironment     : Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 19:13]
+2023-04-23 15:34:25.558  INFO 84864 --- [main] com.maplesong.MyblogApplicationTests     : Started MyblogApplicationTests in 9.359 seconds (JVM running for 12.409)
